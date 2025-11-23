@@ -1,7 +1,10 @@
 streamlit
+pypdf
 python-dotenv
 google-generativeai
-pypdf
-sentence-transformers
 langchain
 langchain-community
+sentence-transformers
+chromadb
+huggingface-hub
+numpy
