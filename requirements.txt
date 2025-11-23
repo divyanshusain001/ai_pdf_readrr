@@ -2,5 +2,6 @@ streamlit
 python-dotenv
 google-generativeai
 pypdf
+sentence-transformers
 langchain
 langchain-community
