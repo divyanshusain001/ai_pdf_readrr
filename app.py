@@ -2,7 +2,8 @@ import streamlit as st
 import os
 from pypdf import PdfReader
 from dotenv import load_dotenv
-from google import genai
+import google.generativeai as genai
+
 
 from langchain_community.vectorstores.faiss import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
